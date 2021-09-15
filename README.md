@@ -1,6 +1,7 @@
 # My-Portfolio
 ## Atulya's Portfolio
-A short account of myself
+<img src="https://github.com/atulya282/My-Portfolio/blob/main/20191027_195409.jpg" alt="" width="200"/>
+## A short account of myself
 
 
 I'm Atulya, an Information Technology 2nd year student at BIT Mesra. I'll turn 20 in the beginning of 2022. My native place is in Bihar but I've been living in Ranchi for the past 15 years, which I think is the most beautiful home to have had.  <br /> 
